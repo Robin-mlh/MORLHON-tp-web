@@ -1,0 +1,104 @@
+h1{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  position: relative;
+  top: 1px;
+  left: 37%;
+
+}
+
+h3{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  position: relative;
+  top: 75px;
+}
+
+
+.h3_blanc{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  position: relative;
+  background-color: black;
+  font-size: 25px;
+  top: 75px;
+}
+ 
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.button {
+  background-color: grey;
+  border: black 4px solid;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button_rev{
+  background-image: url(Images/Rev.jpg);
+  border: black 4px solid;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button_corde{
+  background-image: url(Images/Corde.jpg);
+  border: black 4px solid;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button_lampe{
+  background-image: url(Images/Lampe.jpg);
+  border: black 4px solid;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#chx1 {
+    position: absolute;
+    bottom: 80px;
+    left: 50px;
+}
+
+#chx2 {
+    position: absolute;
+    bottom: 80px;
+    left: 450px;
+}
+#chx3 {
+    position: absolute;
+    bottom: 80px;
+    left: 850px;
+}
+#chx4 {
+    position: absolute;
+    bottom: 80px;
+    left: 1250px;
+}
